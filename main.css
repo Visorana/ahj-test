@@ -1,0 +1,57 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+.validator {
+  max-width: 374px;
+  padding: 0 15px;
+  float: left;
+}
+
+.payment-icons {
+  height: 25px;
+  margin: 10px 0;
+}
+
+.payment-icons img {
+  height: 25px;
+  width: 39px;
+  margin-right: 5px;
+  float: left;
+  outline: 1px solid grey;
+  border-radius: 4px;
+}
+
+.payment-icons img.inactive {
+  opacity: .3;
+}
+
+
+.card-input {
+  float: left;
+  box-sizing: border-box;
+  height: 34px;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.validate-button {
+  padding: 6px 12px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+  margin-left: 10px;
+}
+
+.validation-result {
+  clear: both;
+}
+
+
