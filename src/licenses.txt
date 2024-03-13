@@ -1,0 +1,12 @@
+Icons sourced from https://findicons.com/:
+- visa.png
+- mastercard.png
+- american_express.png
+- discover.png
+- jcb.png
+
+Icons sourced from https://www.softicons.com/:
+- diners.png
+
+Icons sourced from https://www.svgrepo.com/:
+- mir.png
